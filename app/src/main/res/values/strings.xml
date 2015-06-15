@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TP1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="act_main_menu_quit_msg">Quitter l\'application ?</string>
+    <string name="act_main_menu_quit_title">Quitter</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Annuler</string>
+    <string name="act_main_btn_en_title">EN</string>
+    <string name="act_main_btn_fr_title">FR</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
